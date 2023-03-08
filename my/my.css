@@ -1,0 +1,57 @@
+body{
+	background-color: #000;
+	font-size: 20px;
+	font-family: 'Tinos', serif;
+}
+h1{
+	border-bottom: 2px solid #fff;
+	display: inline-block;
+	margin-left: 150px;
+	font-variant: small-caps;
+	font-size: 35px;
+	color: #fff;
+}
+article{
+	max-width: 960px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+    background-color: #808080;
+    color: #ff88;
+}
+ul{
+	list-style-image: url(../image/im.png);
+
+
+}
+p.2{
+    <img src="../image/p2.jpeg" >
+}
+.test1{
+	height: 10px;
+}
+video[alt="test0"]{
+	height: 500px;
+	margin: 50px 50px 50px 100px;
+}
+img[alt="test1"]{
+	height: 500px;
+	margin: 50px 50px 50px 100px;
+}
+img[alt="bekon"]{
+	height: 500px;	
+	margin: 50px 50px 50px 150px;
+}
+img[alt="sous"]{
+	height: 500px;
+	margin: 50px 50px 50px 150px;
+}
+img[alt="test2"]{
+	height: 500px;
+	margin: 50px 50px 50px 150px;
+}
+img[alt="test3"]{
+	height: 500px;
+	margin: 50px 50px 50px 150px;
+}
+
